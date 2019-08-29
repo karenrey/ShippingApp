@@ -34,4 +34,8 @@ build/
 .DS_Store
 
 ### Maven ###
+<<<<<<< HEAD
 target/
+=======
+target/
+>>>>>>> 856cd267230ddb7cfaa05faa0ba68b6e4fe9e045
